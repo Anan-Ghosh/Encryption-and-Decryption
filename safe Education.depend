@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524655556 source:g:\programig code anan\safe education\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
